@@ -3,7 +3,6 @@
 #include <string>
 #include <vector>
 #include <stack>
-#include <regex>
 
 struct Move {
     int numberCrates{1};
