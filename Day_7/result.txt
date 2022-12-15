@@ -1,0 +1,1127 @@
+Line Number: 3 / has subdir ccjp
+Line Number: 4 / has file hglnvs.bsh with size 328708
+Line Number: 5 / has subdir hpsnpc
+Line Number: 6 / has subdir pcb
+Line Number: 7 / has subdir pntzm
+Line Number: 8 / has subdir pzg
+Line Number: 9 / has subdir thfgwwsp
+Line Number: 10 cd: ccjp
+Line Number: 11 ls
+Line Number: 12 ccjp has file dlz with size 159990
+Line Number: 13 ccjp has subdir mbtsvblj
+Line Number: 14 ccjp has file nppbjl.qhg with size 165076
+Line Number: 15 cd: mbtsvblj
+Line Number: 16 ls
+Line Number: 17 mbtsvblj has file frqsf.nsv with size 34806
+Line Number: 18 8
+ppqhas been created
+9
+mbtsvblj has subdir ppq
+Line Number: 19 9
+pththas been created
+10
+mbtsvblj has subdir ptht
+Line Number: 20 10
+rgmvdwthas been created
+11
+mbtsvblj has subdir rgmvdwt
+Line Number: 21 cd: ppq
+Line Number: 22 ls
+Line Number: 23 ppq has file dhzp with size 266252
+Line Number: 24 cd: mbtsvblj
+Line Number: 25 cd: ptht
+Line Number: 26 ls
+Line Number: 27 ptht has subdir jbnj
+Line Number: 28 ptht has subdir zcbnwhzd
+Line Number: 29 cd: jbnj
+Line Number: 30 ls
+Line Number: 31 jbnj has subdir clscr
+Line Number: 32 jbnj has file zwtwf.zfz with size 145780
+Line Number: 33 cd: clscr
+Line Number: 34 ls
+Line Number: 35 clscr has file dhzp with size 249531
+Line Number: 36 cd: jbnj
+Line Number: 37 cd: ptht
+Line Number: 38 cd: zcbnwhzd
+Line Number: 39 ls
+Line Number: 40 zcbnwhzd has subdir mbtsvblj
+Line Number: 41 cd: mbtsvblj
+Line Number: 42 ls
+Line Number: 43 mbtsvblj has file pjhvzjt.brz with size 258527
+Line Number: 44 cd: zcbnwhzd
+Line Number: 45 cd: ptht
+Line Number: 46 cd: mbtsvblj
+Line Number: 47 cd: rgmvdwt
+Line Number: 48 ls
+Line Number: 49 rgmvdwt has file hdb with size 166021
+Line Number: 50 rgmvdwt has file ljpzpdbf with size 115350
+Line Number: 51 cd: mbtsvblj
+Line Number: 52 cd: ccjp
+Line Number: 53 cd: /
+Line Number: 54 cd: hpsnpc
+Line Number: 55 ls
+Line Number: 56 hpsnpc has file bfdfbrh.vff with size 6334
+Line Number: 57 hpsnpc has file qphlw.whm with size 311949
+Line Number: 58 cd: /
+Line Number: 59 cd: pcb
+Line Number: 60 ls
+Line Number: 61 pcb has subdir ccjp
+Line Number: 62 pcb has file gbpzf.gmg with size 201615
+Line Number: 63 pcb has subdir lhth
+Line Number: 64 pcb has file lrmj.rmm with size 319302
+Line Number: 65 pcb has subdir mwl
+Line Number: 66 pcb has file pvftq with size 303062
+Line Number: 67 cd: ccjp
+Line Number: 68 ls
+Line Number: 69 ccjp has file ccjp with size 10932
+Line Number: 70 ccjp has file jjcggmr.ljs with size 80040
+Line Number: 71 ccjp has file jrqwhsn.ptv with size 299982
+Line Number: 72 ccjp has file ljpzpdbf with size 280655
+Line Number: 73 ccjp has file mdvvj.dlf with size 268430
+Line Number: 74 ccjp has subdir mvhhlg
+Line Number: 75 ccjp has subdir ppfq
+Line Number: 76 ccjp has subdir rdgngdm
+Line Number: 77 ccjp has subdir smftmb
+Line Number: 78 ccjp has subdir tqwchhd
+Line Number: 79 cd: mvhhlg
+Line Number: 80 ls
+Line Number: 81 mvhhlg has file fwhcbfr.shd with size 146902
+Line Number: 82 cd: ccjp
+Line Number: 83 cd: ppfq
+Line Number: 84 ls
+Line Number: 85 ppfq has file hdb with size 263452
+Line Number: 86 cd: ccjp
+Line Number: 87 cd: rdgngdm
+Line Number: 88 ls
+Line Number: 89 rdgngdm has file wlgshdgl with size 46355
+Line Number: 90 cd: ccjp
+Line Number: 91 cd: smftmb
+Line Number: 92 ls
+Line Number: 93 smftmb has file mhs with size 56834
+Line Number: 94 smftmb has file ppmtvcj with size 325038
+Line Number: 95 smftmb has subdir rzcmwl
+Line Number: 96 smftmb has file ztwqq.jfw with size 194645
+Line Number: 97 cd: rzcmwl
+Line Number: 98 ls
+Line Number: 99 rzcmwl has subdir btfhswwf
+Line Number: 100 rzcmwl has subdir jrd
+Line Number: 101 rzcmwl has subdir ndzfvl
+Line Number: 102 cd: btfhswwf
+Line Number: 103 ls
+Line Number: 104 btfhswwf has file ccjp.clj with size 62811
+Line Number: 105 cd: rzcmwl
+Line Number: 106 cd: jrd
+Line Number: 107 ls
+Line Number: 108 jrd has file fqqg.pfc with size 184948
+Line Number: 109 jrd has subdir mshf
+Line Number: 110 jrd has file nbvbr with size 136894
+Line Number: 111 cd: mshf
+Line Number: 112 ls
+Line Number: 113 mshf has file ppmtvcj with size 314602
+Line Number: 114 cd: jrd
+Line Number: 115 cd: rzcmwl
+Line Number: 116 cd: ndzfvl
+Line Number: 117 ls
+Line Number: 118 ndzfvl has file hhcfpnmg.njm with size 43177
+Line Number: 119 cd: rzcmwl
+Line Number: 120 cd: smftmb
+Line Number: 121 cd: ccjp
+Line Number: 122 cd: tqwchhd
+Line Number: 123 ls
+Line Number: 124 tqwchhd has file dlz with size 294014
+Line Number: 125 tqwchhd has file ljpzpdbf with size 122061
+Line Number: 126 tqwchhd has file ppmtvcj.wlp with size 54178
+Line Number: 127 tqwchhd has subdir trm
+Line Number: 128 tqwchhd has subdir zcbnwhzd
+Line Number: 129 cd: trm
+Line Number: 130 ls
+Line Number: 131 trm has file ccjp.mhz with size 279737
+Line Number: 132 cd: tqwchhd
+Line Number: 133 cd: zcbnwhzd
+Line Number: 134 ls
+Line Number: 135 zcbnwhzd has file dhnwjlzj with size 88477
+Line Number: 136 zcbnwhzd has file dhzp with size 143989
+Line Number: 137 cd: tqwchhd
+Line Number: 138 cd: ccjp
+Line Number: 139 cd: pcb
+Line Number: 140 cd: lhth
+Line Number: 141 ls
+Line Number: 142 lhth has file tlls with size 79532
+Line Number: 143 cd: pcb
+Line Number: 144 cd: mwl
+Line Number: 145 ls
+Line Number: 146 mwl has subdir frc
+Line Number: 147 mwl has subdir lqqqppm
+Line Number: 148 mwl has file prpjmrw with size 178576
+Line Number: 149 cd: frc
+Line Number: 150 ls
+Line Number: 151 frc has subdir cvm
+Line Number: 152 frc has file dhzp with size 244013
+Line Number: 153 frc has file gnh with size 29325
+Line Number: 154 frc has file hdb with size 264555
+Line Number: 155 cd: cvm
+Line Number: 156 ls
+Line Number: 157 cvm has file hhcfpnmg.njm with size 196619
+Line Number: 158 cd: frc
+Line Number: 159 cd: mwl
+Line Number: 160 cd: lqqqppm
+Line Number: 161 ls
+Line Number: 162 lqqqppm has subdir jdznl
+Line Number: 163 lqqqppm has file nqv with size 38505
+Line Number: 164 cd: jdznl
+Line Number: 165 ls
+Line Number: 166 jdznl has file ctt with size 85492
+Line Number: 167 jdznl has file dfbgtqj.vsb with size 228912
+Line Number: 168 jdznl has file nnwgd.vjn with size 136077
+Line Number: 169 jdznl has file zrrzsfss with size 254459
+Line Number: 170 cd: lqqqppm
+Line Number: 171 cd: mwl
+Line Number: 172 cd: pcb
+Line Number: 173 cd: /
+Line Number: 174 cd: pntzm
+Line Number: 175 ls
+Line Number: 176 pntzm has subdir hnnhdd
+Line Number: 177 pntzm has subdir mbtsvblj
+Line Number: 178 pntzm has subdir vmdlwdj
+Line Number: 179 cd: hnnhdd
+Line Number: 180 ls
+Line Number: 181 hnnhdd has file fjp with size 35908
+Line Number: 182 hnnhdd has file ljpzpdbf with size 119221
+Line Number: 183 hnnhdd has file whhpztz.lgt with size 210488
+Line Number: 184 cd: pntzm
+Line Number: 185 cd: mbtsvblj
+Line Number: 186 ls
+Line Number: 187 37
+clfpchas been created
+38
+mbtsvblj has subdir clfpc
+Line Number: 188 38
+csqcnmtchas been created
+39
+mbtsvblj has subdir csqcnmtc
+Line Number: 189 mbtsvblj has file mbtsvblj with size 18524
+Line Number: 190 39
+zcrrtlhhas been created
+40
+mbtsvblj has subdir zcrrtlh
+Line Number: 191 cd: clfpc
+Line Number: 192 ls
+Line Number: 193 clfpc has subdir jffq
+Line Number: 194 clfpc has subdir qpsfrhld
+Line Number: 195 clfpc has file tdzfqpz.wvs with size 89569
+Line Number: 196 cd: jffq
+Line Number: 197 ls
+Line Number: 198 jffq has subdir dpngpgr
+Line Number: 199 jffq has subdir htbf
+Line Number: 200 cd: dpngpgr
+Line Number: 201 ls
+Line Number: 202 dpngpgr has file ccjp.nbs with size 128899
+Line Number: 203 cd: jffq
+Line Number: 204 cd: htbf
+Line Number: 205 ls
+Line Number: 206 htbf has file ljpzpdbf with size 90381
+Line Number: 207 cd: jffq
+Line Number: 208 cd: clfpc
+Line Number: 209 cd: qpsfrhld
+Line Number: 210 ls
+Line Number: 211 qpsfrhld has subdir bgrb
+Line Number: 212 qpsfrhld has subdir ddtlcfz
+Line Number: 213 qpsfrhld has file dlz with size 54115
+Line Number: 214 qpsfrhld has file hhcfpnmg.njm with size 154299
+Line Number: 215 qpsfrhld has file jwc.pwg with size 59452
+Line Number: 216 qpsfrhld has subdir mbtsvblj
+Line Number: 217 cd: bgrb
+Line Number: 218 ls
+Line Number: 219 bgrb has file ccjp.zmf with size 119046
+Line Number: 220 bgrb has subdir qsnng
+Line Number: 221 cd: qsnng
+Line Number: 222 ls
+Line Number: 223 qsnng has file vjdh.cqv with size 195412
+Line Number: 224 cd: bgrb
+Line Number: 225 cd: qpsfrhld
+Line Number: 226 cd: ddtlcfz
+Line Number: 227 ls
+Line Number: 228 ddtlcfz has subdir ftfch
+Line Number: 229 ddtlcfz has file mbtsvblj with size 26717
+Line Number: 230 ddtlcfz has file mbtsvblj.rfb with size 157679
+Line Number: 231 ddtlcfz has file qmg with size 299928
+Line Number: 232 ddtlcfz has subdir trq
+Line Number: 233 ddtlcfz has subdir wjhjlpr
+Line Number: 234 cd: ftfch
+Line Number: 235 ls
+Line Number: 236 ftfch has file dhzp with size 50242
+Line Number: 237 ftfch has file dlz with size 58846
+Line Number: 238 ftfch has subdir hhwsrzhv
+Line Number: 239 cd: hhwsrzhv
+Line Number: 240 ls
+Line Number: 241 hhwsrzhv has subdir bjnn
+Line Number: 242 hhwsrzhv has file dhzp with size 67610
+Line Number: 243 hhwsrzhv has subdir mbtsvblj
+Line Number: 244 hhwsrzhv has file tmcfmshb with size 205664
+Line Number: 245 cd: bjnn
+Line Number: 246 ls
+Line Number: 247 bjnn has file dlz with size 199806
+Line Number: 248 cd: hhwsrzhv
+Line Number: 249 cd: mbtsvblj
+Line Number: 250 ls
+Line Number: 251 54
+ffzjcshphas been created
+55
+mbtsvblj has subdir ffzjcshp
+Line Number: 252 cd: ffzjcshp
+Line Number: 253 ls
+Line Number: 254 ffzjcshp has subdir ppmtvcj
+Line Number: 255 cd: ppmtvcj
+Line Number: 256 ls
+Line Number: 257 ppmtvcj has file dlz with size 184744
+Line Number: 258 cd: ffzjcshp
+Line Number: 259 cd: mbtsvblj
+Line Number: 260 cd: hhwsrzhv
+Line Number: 261 cd: ftfch
+Line Number: 262 cd: ddtlcfz
+Line Number: 263 cd: trq
+Line Number: 264 ls
+Line Number: 265 trq has file ccjp with size 278471
+Line Number: 266 cd: ddtlcfz
+Line Number: 267 cd: wjhjlpr
+Line Number: 268 ls
+Line Number: 269 wjhjlpr has subdir wzwqrfhv
+Line Number: 270 cd: wzwqrfhv
+Line Number: 271 ls
+Line Number: 272 wzwqrfhv has file ccjp with size 262877
+Line Number: 273 cd: wjhjlpr
+Line Number: 274 cd: ddtlcfz
+Line Number: 275 cd: qpsfrhld
+Line Number: 276 cd: mbtsvblj
+Line Number: 277 ls
+Line Number: 278 mbtsvblj has file ccjp.szb with size 243142
+Line Number: 279 mbtsvblj has file lmstdpfc.nww with size 306673
+Line Number: 280 57
+nlsprnhhas been created
+58
+mbtsvblj has subdir nlsprnh
+Line Number: 281 58
+nmzwtwwchas been created
+59
+mbtsvblj has subdir nmzwtwwc
+Line Number: 282 59
+rbpblhas been created
+60
+mbtsvblj has subdir rbpbl
+Line Number: 283 cd: nlsprnh
+Line Number: 284 ls
+Line Number: 285 nlsprnh has file stbjphg.hcs with size 200708
+Line Number: 286 cd: mbtsvblj
+Line Number: 287 cd: nmzwtwwc
+Line Number: 288 ls
+Line Number: 289 nmzwtwwc has file vzq.pcj with size 323366
+Line Number: 290 cd: mbtsvblj
+Line Number: 291 cd: rbpbl
+Line Number: 292 ls
+Line Number: 293 rbpbl has file fmnmsjr.svf with size 59872
+Line Number: 294 cd: mbtsvblj
+Line Number: 295 cd: qpsfrhld
+Line Number: 296 cd: clfpc
+Line Number: 297 cd: mbtsvblj
+Line Number: 298 cd: csqcnmtc
+Line Number: 299 ls
+Line Number: 300 csqcnmtc has file ccjp with size 16652
+Line Number: 301 csqcnmtc has subdir fsfd
+Line Number: 302 csqcnmtc has file hdb with size 37144
+Line Number: 303 csqcnmtc has subdir mbtsvblj
+Line Number: 304 csqcnmtc has subdir mwl
+Line Number: 305 csqcnmtc has file nljlpbjq with size 66387
+Line Number: 306 csqcnmtc has subdir ppmtvcj
+Line Number: 307 csqcnmtc has file rgclgwnq with size 120839
+Line Number: 308 cd: fsfd
+Line Number: 309 ls
+Line Number: 310 fsfd has file qqvchq.mwh with size 105721
+Line Number: 311 cd: csqcnmtc
+Line Number: 312 cd: mbtsvblj
+Line Number: 313 ls
+Line Number: 314 64
+cdzgtllhas been created
+65
+mbtsvblj has subdir cdzgtll
+Line Number: 315 65
+dfgdhas been created
+66
+mbtsvblj has subdir dfgd
+Line Number: 316 66
+fbfrhas been created
+67
+mbtsvblj has subdir fbfr
+Line Number: 317 mbtsvblj has file mbtsvblj with size 165975
+Line Number: 318 mbtsvblj has file ppmtvcj with size 174541
+Line Number: 319 67
+vwgrpswjhas been created
+68
+mbtsvblj has subdir vwgrpswj
+Line Number: 320 cd: cdzgtll
+Line Number: 321 ls
+Line Number: 322 cdzgtll has file dhzp with size 163523
+Line Number: 323 cdzgtll has file dlz with size 124219
+Line Number: 324 cdzgtll has file hdb with size 199796
+Line Number: 325 cd: mbtsvblj
+Line Number: 326 cd: dfgd
+Line Number: 327 ls
+Line Number: 328 dfgd has file ccjp.cbt with size 173064
+Line Number: 329 dfgd has subdir cdqc
+Line Number: 330 dfgd has subdir fzrm
+Line Number: 331 dfgd has subdir grcs
+Line Number: 332 dfgd has file mbtsvblj.zrl with size 87000
+Line Number: 333 dfgd has subdir njvgs
+Line Number: 334 dfgd has subdir ppmtvcj
+Line Number: 335 dfgd has file rhtslcwt.wgt with size 210984
+Line Number: 336 dfgd has subdir vws
+Line Number: 337 cd: cdqc
+Line Number: 338 ls
+Line Number: 339 cdqc has file hdb with size 178924
+Line Number: 340 cd: dfgd
+Line Number: 341 cd: fzrm
+Line Number: 342 ls
+Line Number: 343 fzrm has subdir bjwtbc
+Line Number: 344 fzrm has file dhzp with size 211229
+Line Number: 345 fzrm has subdir dtslj
+Line Number: 346 fzrm has file mbtsvblj.mtw with size 76461
+Line Number: 347 fzrm has file mmz.mqq with size 317618
+Line Number: 348 fzrm has subdir mwl
+Line Number: 349 fzrm has file vwgq with size 163587
+Line Number: 350 cd: bjwtbc
+Line Number: 351 ls
+Line Number: 352 bjwtbc has file hhcfpnmg.njm with size 9891
+Line Number: 353 bjwtbc has subdir mwl
+Line Number: 354 cd: mwl
+Line Number: 355 ls
+Line Number: 356 mwl has file glwp.dls with size 203337
+Line Number: 357 mwl has file mwl.qph with size 112753
+Line Number: 358 cd: bjwtbc
+Line Number: 359 cd: fzrm
+Line Number: 360 cd: dtslj
+Line Number: 361 ls
+Line Number: 362 dtslj has file hhcfpnmg.njm with size 277817
+Line Number: 363 cd: fzrm
+Line Number: 364 cd: mwl
+Line Number: 365 ls
+Line Number: 366 mwl has file mhnrwpmg.svv with size 90781
+Line Number: 367 cd: fzrm
+Line Number: 368 cd: dfgd
+Line Number: 369 cd: grcs
+Line Number: 370 ls
+Line Number: 371 grcs has file rnfqhs with size 286144
+Line Number: 372 cd: dfgd
+Line Number: 373 cd: njvgs
+Line Number: 374 ls
+Line Number: 375 njvgs has subdir bmhdth
+Line Number: 376 njvgs has subdir ccjp
+Line Number: 377 njvgs has subdir mwl
+Line Number: 378 cd: bmhdth
+Line Number: 379 ls
+Line Number: 380 bmhdth has file ppmtvcj.hwq with size 154455
+Line Number: 381 cd: njvgs
+Line Number: 382 cd: ccjp
+Line Number: 383 ls
+Line Number: 384 ccjp has file fcwjtzhs.vqn with size 215864
+Line Number: 385 cd: njvgs
+Line Number: 386 cd: mwl
+Line Number: 387 ls
+Line Number: 388 mwl has file fnjztz with size 139000
+Line Number: 389 cd: njvgs
+Line Number: 390 cd: dfgd
+Line Number: 391 cd: ppmtvcj
+Line Number: 392 ls
+Line Number: 393 ppmtvcj has file jzfnmdw.jms with size 45041
+Line Number: 394 ppmtvcj has subdir zstzfs
+Line Number: 395 cd: zstzfs
+Line Number: 396 ls
+Line Number: 397 zstzfs has subdir qsfsj
+Line Number: 398 cd: qsfsj
+Line Number: 399 ls
+Line Number: 400 qsfsj has file rsv with size 34771
+Line Number: 401 cd: zstzfs
+Line Number: 402 cd: ppmtvcj
+Line Number: 403 cd: dfgd
+Line Number: 404 cd: vws
+Line Number: 405 ls
+Line Number: 406 vws has file pjs with size 98036
+Line Number: 407 vws has file szszjfv with size 103603
+Line Number: 408 vws has file ztd with size 211083
+Line Number: 409 cd: dfgd
+Line Number: 410 cd: mbtsvblj
+Line Number: 411 cd: fbfr
+Line Number: 412 ls
+Line Number: 413 fbfr has subdir dshrpf
+Line Number: 414 fbfr has file hbw.jhj with size 216109
+Line Number: 415 fbfr has file hdhl with size 319355
+Line Number: 416 fbfr has subdir ltf
+Line Number: 417 fbfr has file qstlgvb with size 210950
+Line Number: 418 fbfr has subdir thhncv
+Line Number: 419 fbfr has file zfgh with size 316300
+Line Number: 420 cd: dshrpf
+Line Number: 421 ls
+Line Number: 422 dshrpf has subdir nll
+Line Number: 423 dshrpf has subdir qrsg
+Line Number: 424 cd: nll
+Line Number: 425 ls
+Line Number: 426 nll has file flmvswv.rll with size 45935
+Line Number: 427 nll has file hhcfpnmg.njm with size 4161
+Line Number: 428 nll has file sww.dwj with size 82301
+Line Number: 429 nll has subdir tqdmtp
+Line Number: 430 nll has file tzrn.qrt with size 46608
+Line Number: 431 nll has file zcbnwhzd.mpm with size 101463
+Line Number: 432 cd: tqdmtp
+Line Number: 433 ls
+Line Number: 434 tqdmtp has file dhzp with size 280430
+Line Number: 435 cd: nll
+Line Number: 436 cd: dshrpf
+Line Number: 437 cd: qrsg
+Line Number: 438 ls
+Line Number: 439 qrsg has subdir htrvnvz
+Line Number: 440 cd: htrvnvz
+Line Number: 441 ls
+Line Number: 442 htrvnvz has subdir mbtsvblj
+Line Number: 443 cd: mbtsvblj
+Line Number: 444 ls
+Line Number: 445 mbtsvblj has file dlz with size 235270
+Line Number: 446 cd: htrvnvz
+Line Number: 447 cd: qrsg
+Line Number: 448 cd: dshrpf
+Line Number: 449 cd: fbfr
+Line Number: 450 cd: ltf
+Line Number: 451 ls
+Line Number: 452 ltf has subdir pcbc
+Line Number: 453 ltf has subdir wwjnwbjj
+Line Number: 454 ltf has subdir zcbnwhzd
+Line Number: 455 cd: pcbc
+Line Number: 456 ls
+Line Number: 457 pcbc has file mbtsvblj.hqd with size 140010
+Line Number: 458 cd: ltf
+Line Number: 459 cd: wwjnwbjj
+Line Number: 460 ls
+Line Number: 461 wwjnwbjj has subdir mwl
+Line Number: 462 cd: mwl
+Line Number: 463 ls
+Line Number: 464 mwl has subdir pddbdp
+Line Number: 465 cd: pddbdp
+Line Number: 466 ls
+Line Number: 467 pddbdp has file dlz with size 27497
+Line Number: 468 cd: mwl
+Line Number: 469 cd: wwjnwbjj
+Line Number: 470 cd: ltf
+Line Number: 471 cd: zcbnwhzd
+Line Number: 472 ls
+Line Number: 473 zcbnwhzd has file nrgpwm.cbb with size 302364
+Line Number: 474 cd: ltf
+Line Number: 475 cd: fbfr
+Line Number: 476 cd: thhncv
+Line Number: 477 ls
+Line Number: 478 thhncv has file hdb with size 299769
+Line Number: 479 cd: fbfr
+Line Number: 480 cd: mbtsvblj
+Line Number: 481 cd: vwgrpswj
+Line Number: 482 ls
+Line Number: 483 vwgrpswj has subdir jgt
+Line Number: 484 vwgrpswj has subdir mwl
+Line Number: 485 vwgrpswj has file mwl.pwl with size 293673
+Line Number: 486 cd: jgt
+Line Number: 487 ls
+Line Number: 488 jgt has file hhcfpnmg.njm with size 282773
+Line Number: 489 cd: vwgrpswj
+Line Number: 490 cd: mwl
+Line Number: 491 ls
+Line Number: 492 mwl has file jfnjdtr.ssj with size 288944
+Line Number: 493 mwl has file wfr with size 186368
+Line Number: 494 mwl has subdir zrtvvf
+Line Number: 495 cd: zrtvvf
+Line Number: 496 ls
+Line Number: 497 zrtvvf has file gtz.gsc with size 82162
+Line Number: 498 cd: mwl
+Line Number: 499 cd: vwgrpswj
+Line Number: 500 cd: mbtsvblj
+Line Number: 501 cd: csqcnmtc
+Line Number: 502 cd: mwl
+Line Number: 503 ls
+Line Number: 504 mwl has file htc.qjr with size 98218
+Line Number: 505 mwl has subdir mghhqrtn
+Line Number: 506 mwl has subdir qct
+Line Number: 507 cd: mghhqrtn
+Line Number: 508 ls
+Line Number: 509 mghhqrtn has file dlz with size 220446
+Line Number: 510 mghhqrtn has file pwwlwv.crn with size 36230
+Line Number: 511 cd: mwl
+Line Number: 512 cd: qct
+Line Number: 513 ls
+Line Number: 514 qct has file hdb with size 33534
+Line Number: 515 qct has file jpwqvbs.mvr with size 27140
+Line Number: 516 qct has file mlqtp with size 60637
+Line Number: 517 qct has file nlvtp.qjn with size 12143
+Line Number: 518 qct has file nqjqzt with size 152733
+Line Number: 519 cd: mwl
+Line Number: 520 cd: csqcnmtc
+Line Number: 521 cd: ppmtvcj
+Line Number: 522 ls
+Line Number: 523 ppmtvcj has subdir ccjp
+Line Number: 524 ppmtvcj has file zcbnwhzd with size 297245
+Line Number: 525 cd: ccjp
+Line Number: 526 ls
+Line Number: 527 ccjp has file wcw.dng with size 128473
+Line Number: 528 cd: ppmtvcj
+Line Number: 529 cd: csqcnmtc
+Line Number: 530 cd: mbtsvblj
+Line Number: 531 cd: zcrrtlh
+Line Number: 532 ls
+Line Number: 533 zcrrtlh has file bcbnmhq with size 27488
+Line Number: 534 zcrrtlh has subdir dhsmmlt
+Line Number: 535 zcrrtlh has subdir fgqbpcn
+Line Number: 536 cd: dhsmmlt
+Line Number: 537 ls
+Line Number: 538 dhsmmlt has file cvfwqnfl with size 42514
+Line Number: 539 dhsmmlt has file dlz with size 252570
+Line Number: 540 dhsmmlt has file ppmtvcj.snb with size 145814
+Line Number: 541 dhsmmlt has file rslsh.slv with size 294613
+Line Number: 542 dhsmmlt has file vwd.spz with size 186477
+Line Number: 543 dhsmmlt has subdir wffbp
+Line Number: 544 cd: wffbp
+Line Number: 545 ls
+Line Number: 546 wffbp has subdir mbtsvblj
+Line Number: 547 wffbp has subdir nvq
+Line Number: 548 wffbp has file ppmtvcj.hzc with size 150447
+Line Number: 549 wffbp has file whzpsbqp.clq with size 34904
+Line Number: 550 wffbp has subdir zcbnwhzd
+Line Number: 551 cd: mbtsvblj
+Line Number: 552 ls
+Line Number: 553 mbtsvblj has file cmmlw.bmq with size 65132
+Line Number: 554 mbtsvblj has file cqrtmpdp.pjq with size 310866
+Line Number: 555 108
+mbtsvbljhas been created
+109
+mbtsvblj has subdir mbtsvblj
+Line Number: 556 mbtsvblj has file mbtsvblj.spw with size 212527
+Line Number: 557 mbtsvblj has file ngmltt.qwl with size 232198
+Line Number: 558 109
+pbqhhas been created
+110
+mbtsvblj has subdir pbqh
+Line Number: 559 110
+ppwgsphas been created
+111
+mbtsvblj has subdir ppwgsp
+Line Number: 560 111
+qqfsbhas been created
+112
+mbtsvblj has subdir qqfsb
+Line Number: 561 mbtsvblj has file tzsmvh with size 223322
+Line Number: 562 cd: mbtsvblj
+Line Number: 563 ls
+Line Number: 564 112
+bzpdzhas been created
+113
+mbtsvblj has subdir bzpdz
+Line Number: 565 113
+mbtsvbljhas been created
+114
+mbtsvblj has subdir mbtsvblj
+Line Number: 566 114
+pwnnhas been created
+115
+mbtsvblj has subdir pwnn
+Line Number: 567 115
+zcbnwhzdhas been created
+116
+mbtsvblj has subdir zcbnwhzd
+Line Number: 568 cd: bzpdz
+Line Number: 569 ls
+Line Number: 570 bzpdz has file gtmftv with size 272769
+Line Number: 571 bzpdz has file hhcfpnmg.njm with size 280597
+Line Number: 572 bzpdz has file nmgvrhr.mvp with size 151008
+Line Number: 573 cd: mbtsvblj
+Line Number: 574 cd: mbtsvblj
+Line Number: 575 ls
+Line Number: 576 mbtsvblj has file czn with size 64862
+Line Number: 577 mbtsvblj has file dhzp with size 309781
+Line Number: 578 mbtsvblj has file dlz with size 253325
+Line Number: 579 116
+dqnrhas been created
+117
+mbtsvblj has subdir dqnr
+Line Number: 580 117
+fgdhas been created
+118
+mbtsvblj has subdir fgd
+Line Number: 581 mbtsvblj has file ghtzv with size 139779
+Line Number: 582 mbtsvblj has file rml.rhm with size 255567
+Line Number: 583 118
+srfzjfwhas been created
+119
+mbtsvblj has subdir srfzjfw
+Line Number: 584 cd: dqnr
+Line Number: 585 ls
+Line Number: 586 dqnr has file cjnwm.lrb with size 302986
+Line Number: 587 dqnr has file frhjlp.rnn with size 158871
+Line Number: 588 dqnr has file nrlmq with size 180385
+Line Number: 589 cd: mbtsvblj
+Line Number: 590 cd: fgd
+Line Number: 591 ls
+Line Number: 592 fgd has file msjrcl.dsh with size 158213
+Line Number: 593 cd: mbtsvblj
+Line Number: 594 cd: srfzjfw
+Line Number: 595 ls
+Line Number: 596 srfzjfw has subdir jfnd
+Line Number: 597 srfzjfw has file ljpzpdbf with size 210830
+Line Number: 598 srfzjfw has subdir mbtsvblj
+Line Number: 599 srfzjfw has subdir zcrrvpg
+Line Number: 600 cd: jfnd
+Line Number: 601 ls
+Line Number: 602 jfnd has file zvtdj.srv with size 300883
+Line Number: 603 cd: srfzjfw
+Line Number: 604 cd: mbtsvblj
+Line Number: 605 ls
+Line Number: 606 mbtsvblj has file cjdm.whc with size 287467
+Line Number: 607 mbtsvblj has file hpfgtnts with size 233084
+Line Number: 608 122
+zcbnwhzdhas been created
+123
+mbtsvblj has subdir zcbnwhzd
+Line Number: 609 cd: zcbnwhzd
+Line Number: 610 ls
+Line Number: 611 zcbnwhzd has file dlz with size 79744
+Line Number: 612 cd: mbtsvblj
+Line Number: 613 cd: srfzjfw
+Line Number: 614 cd: zcrrvpg
+Line Number: 615 ls
+Line Number: 616 zcrrvpg has subdir jrbcqlct
+Line Number: 617 zcrrvpg has subdir srpm
+Line Number: 618 cd: jrbcqlct
+Line Number: 619 ls
+Line Number: 620 jrbcqlct has file dlz with size 325945
+Line Number: 621 cd: zcrrvpg
+Line Number: 622 cd: srpm
+Line Number: 623 ls
+Line Number: 624 srpm has file ngw.fhm with size 90698
+Line Number: 625 cd: zcrrvpg
+Line Number: 626 cd: srfzjfw
+Line Number: 627 cd: mbtsvblj
+Line Number: 628 cd: mbtsvblj
+Line Number: 629 cd: pwnn
+Line Number: 630 ls
+Line Number: 631 pwnn has file ppmtvcj.jtm with size 104826
+Line Number: 632 cd: mbtsvblj
+Line Number: 633 cd: zcbnwhzd
+Line Number: 634 ls
+Line Number: 635 zcbnwhzd has file fnr.dgt with size 145508
+Line Number: 636 zcbnwhzd has file gwdl.vfl with size 256683
+Line Number: 637 zcbnwhzd has subdir mdv
+Line Number: 638 zcbnwhzd has file mqdv.cdb with size 44255
+Line Number: 639 zcbnwhzd has file rgvcf with size 79723
+Line Number: 640 zcbnwhzd has subdir sjdh
+Line Number: 641 zcbnwhzd has file wdgq.hfm with size 88945
+Line Number: 642 zcbnwhzd has subdir zpm
+Line Number: 643 cd: mdv
+Line Number: 644 ls
+Line Number: 645 mdv has file dlz with size 231290
+Line Number: 646 mdv has file hdb with size 3468
+Line Number: 647 mdv has file mcm with size 95091
+Line Number: 648 mdv has file mwl.ncb with size 67779
+Line Number: 649 mdv has subdir ppf
+Line Number: 650 mdv has subdir rfwwtjdn
+Line Number: 651 mdv has file slrv.qdl with size 143730
+Line Number: 652 mdv has subdir sqbdvppf
+Line Number: 653 cd: ppf
+Line Number: 654 ls
+Line Number: 655 ppf has file rgdtlp with size 73809
+Line Number: 656 cd: mdv
+Line Number: 657 cd: rfwwtjdn
+Line Number: 658 ls
+Line Number: 659 rfwwtjdn has file dhzp with size 255306
+Line Number: 660 rfwwtjdn has file zbnmtcgr.ddf with size 306865
+Line Number: 661 rfwwtjdn has file zcbnwhzd.szn with size 237019
+Line Number: 662 cd: mdv
+Line Number: 663 cd: sqbdvppf
+Line Number: 664 ls
+Line Number: 665 sqbdvppf has subdir ccjp
+Line Number: 666 sqbdvppf has subdir mbtsvblj
+Line Number: 667 sqbdvppf has file str with size 142955
+Line Number: 668 sqbdvppf has subdir whtrbcqn
+Line Number: 669 sqbdvppf has file zcbnwhzd.ctr with size 93407
+Line Number: 670 cd: ccjp
+Line Number: 671 ls
+Line Number: 672 ccjp has file cwtvtcnp.tft with size 29914
+Line Number: 673 ccjp has file rvlb with size 295537
+Line Number: 674 cd: sqbdvppf
+Line Number: 675 cd: mbtsvblj
+Line Number: 676 ls
+Line Number: 677 mbtsvblj has file ccjp.wbn with size 262652
+Line Number: 678 mbtsvblj has file mbtsvblj.gnz with size 297839
+Line Number: 679 mbtsvblj has file pqsqjg.vwr with size 249019
+Line Number: 680 cd: sqbdvppf
+Line Number: 681 cd: whtrbcqn
+Line Number: 682 ls
+Line Number: 683 whtrbcqn has subdir ccjp
+Line Number: 684 whtrbcqn has subdir hslmvvb
+Line Number: 685 whtrbcqn has file vzcsfcwf with size 51040
+Line Number: 686 cd: ccjp
+Line Number: 687 ls
+Line Number: 688 ccjp has file slps with size 39489
+Line Number: 689 cd: whtrbcqn
+Line Number: 690 cd: hslmvvb
+Line Number: 691 ls
+Line Number: 692 hslmvvb has file gpwnf.qtd with size 148628
+Line Number: 693 hslmvvb has subdir jrl
+Line Number: 694 hslmvvb has file qtjtsvgg.ltz with size 11814
+Line Number: 695 cd: jrl
+Line Number: 696 ls
+Line Number: 697 jrl has subdir scwlmjzm
+Line Number: 698 cd: scwlmjzm
+Line Number: 699 ls
+Line Number: 700 scwlmjzm has file vhpsrbzw.jnh with size 119717
+Line Number: 701 cd: jrl
+Line Number: 702 cd: hslmvvb
+Line Number: 703 cd: whtrbcqn
+Line Number: 704 cd: sqbdvppf
+Line Number: 705 cd: mdv
+Line Number: 706 cd: zcbnwhzd
+Line Number: 707 cd: sjdh
+Line Number: 708 ls
+Line Number: 709 sjdh has file srwzspsl with size 43495
+Line Number: 710 cd: zcbnwhzd
+Line Number: 711 cd: zpm
+Line Number: 712 ls
+Line Number: 713 zpm has file mwl.pzt with size 137218
+Line Number: 714 cd: zcbnwhzd
+Line Number: 715 cd: mbtsvblj
+Line Number: 716 cd: mbtsvblj
+Line Number: 717 cd: pbqh
+Line Number: 718 ls
+Line Number: 719 pbqh has file dlz with size 202610
+Line Number: 720 pbqh has subdir vdrqc
+Line Number: 721 cd: vdrqc
+Line Number: 722 ls
+Line Number: 723 vdrqc has file mzzmjrt with size 202958
+Line Number: 724 cd: pbqh
+Line Number: 725 cd: mbtsvblj
+Line Number: 726 cd: ppwgsp
+Line Number: 727 ls
+Line Number: 728 ppwgsp has file pzvtdl.lcc with size 248541
+Line Number: 729 cd: mbtsvblj
+Line Number: 730 cd: qqfsb
+Line Number: 731 ls
+Line Number: 732 qqfsb has file mbtsvblj.fvh with size 211390
+Line Number: 733 qqfsb has file mwl.bzl with size 241455
+Line Number: 734 cd: mbtsvblj
+Line Number: 735 cd: wffbp
+Line Number: 736 cd: nvq
+Line Number: 737 ls
+Line Number: 738 nvq has file hhcfpnmg.njm with size 74730
+Line Number: 739 nvq has file ljpzpdbf with size 257109
+Line Number: 740 nvq has file zcbnwhzd.ctj with size 8864
+Line Number: 741 cd: wffbp
+Line Number: 742 cd: zcbnwhzd
+Line Number: 743 ls
+Line Number: 744 zcbnwhzd has file ccjp with size 307501
+Line Number: 745 zcbnwhzd has subdir dfgbztqr
+Line Number: 746 zcbnwhzd has subdir mwl
+Line Number: 747 zcbnwhzd has file pmhtz with size 248526
+Line Number: 748 zcbnwhzd has subdir rwmzdt
+Line Number: 749 cd: dfgbztqr
+Line Number: 750 ls
+Line Number: 751 dfgbztqr has file hdb with size 18261
+Line Number: 752 dfgbztqr has subdir mwl
+Line Number: 753 dfgbztqr has subdir ppmtvcj
+Line Number: 754 cd: mwl
+Line Number: 755 ls
+Line Number: 756 mwl has file hdv.vfs with size 36787
+Line Number: 757 mwl has file zrvbsht.fmm with size 283104
+Line Number: 758 cd: dfgbztqr
+Line Number: 759 cd: ppmtvcj
+Line Number: 760 ls
+Line Number: 761 ppmtvcj has file ljpzpdbf with size 208809
+Line Number: 762 cd: dfgbztqr
+Line Number: 763 cd: zcbnwhzd
+Line Number: 764 cd: mwl
+Line Number: 765 ls
+Line Number: 766 mwl has file mgfvgw with size 195369
+Line Number: 767 mwl has file mwl with size 146522
+Line Number: 768 mwl has file sfthn with size 78589
+Line Number: 769 cd: zcbnwhzd
+Line Number: 770 cd: rwmzdt
+Line Number: 771 ls
+Line Number: 772 rwmzdt has file hdb with size 10176
+Line Number: 773 cd: zcbnwhzd
+Line Number: 774 cd: wffbp
+Line Number: 775 cd: dhsmmlt
+Line Number: 776 cd: zcrrtlh
+Line Number: 777 cd: fgqbpcn
+Line Number: 778 ls
+Line Number: 779 fgqbpcn has file dhzp with size 169227
+Line Number: 780 fgqbpcn has subdir dwsgcrz
+Line Number: 781 fgqbpcn has file pjjln.ngc with size 140391
+Line Number: 782 fgqbpcn has file ppmtvcj.ngb with size 162589
+Line Number: 783 fgqbpcn has file rcgbjn.wfv with size 199626
+Line Number: 784 fgqbpcn has subdir snrl
+Line Number: 785 fgqbpcn has subdir vfnrs
+Line Number: 786 cd: dwsgcrz
+Line Number: 787 ls
+Line Number: 788 dwsgcrz has file fjlw.wtp with size 300751
+Line Number: 789 cd: fgqbpcn
+Line Number: 790 cd: snrl
+Line Number: 791 ls
+Line Number: 792 snrl has file ccjp.jpw with size 16142
+Line Number: 793 snrl has file cmbnljt.ljq with size 150389
+Line Number: 794 snrl has file gqggd.dwm with size 52600
+Line Number: 795 cd: fgqbpcn
+Line Number: 796 cd: vfnrs
+Line Number: 797 ls
+Line Number: 798 vfnrs has file bwlpdfv.hzh with size 217267
+Line Number: 799 cd: fgqbpcn
+Line Number: 800 cd: zcrrtlh
+Line Number: 801 cd: mbtsvblj
+Line Number: 802 cd: pntzm
+Line Number: 803 cd: vmdlwdj
+Line Number: 804 ls
+Line Number: 805 vmdlwdj has file bcgjdpj.qcj with size 29199
+Line Number: 806 vmdlwdj has file jjgrcd.cvf with size 172894
+Line Number: 807 vmdlwdj has subdir ngpnmbqz
+Line Number: 808 vmdlwdj has file ppmtvcj.bfr with size 296193
+Line Number: 809 vmdlwdj has subdir tfvhhpn
+Line Number: 810 vmdlwdj has file wqzst.wcj with size 36476
+Line Number: 811 cd: ngpnmbqz
+Line Number: 812 ls
+Line Number: 813 ngpnmbqz has subdir gnsm
+Line Number: 814 ngpnmbqz has subdir ntsgrm
+Line Number: 815 cd: gnsm
+Line Number: 816 ls
+Line Number: 817 gnsm has subdir rjzngs
+Line Number: 818 gnsm has subdir tvv
+Line Number: 819 cd: rjzngs
+Line Number: 820 ls
+Line Number: 821 rjzngs has subdir dpfcw
+Line Number: 822 rjzngs has subdir spmhrb
+Line Number: 823 cd: dpfcw
+Line Number: 824 ls
+Line Number: 825 dpfcw has file mgdjjd.pqg with size 181566
+Line Number: 826 cd: rjzngs
+Line Number: 827 cd: spmhrb
+Line Number: 828 ls
+Line Number: 829 spmhrb has file hhcfpnmg.njm with size 163198
+Line Number: 830 cd: rjzngs
+Line Number: 831 cd: gnsm
+Line Number: 832 cd: tvv
+Line Number: 833 ls
+Line Number: 834 tvv has file hhcfpnmg.njm with size 131443
+Line Number: 835 cd: gnsm
+Line Number: 836 cd: ngpnmbqz
+Line Number: 837 cd: ntsgrm
+Line Number: 838 ls
+Line Number: 839 ntsgrm has file dlz with size 246786
+Line Number: 840 ntsgrm has file pzbgrn with size 12841
+Line Number: 841 cd: ngpnmbqz
+Line Number: 842 cd: vmdlwdj
+Line Number: 843 cd: tfvhhpn
+Line Number: 844 ls
+Line Number: 845 tfvhhpn has file dhzp with size 196923
+Line Number: 846 cd: vmdlwdj
+Line Number: 847 cd: pntzm
+Line Number: 848 cd: /
+Line Number: 849 cd: pzg
+Line Number: 850 ls
+Line Number: 851 pzg has file ppbqssj.hjj with size 262706
+Line Number: 852 cd: /
+Line Number: 853 cd: thfgwwsp
+Line Number: 854 ls
+Line Number: 855 thfgwwsp has subdir dsvc
+Line Number: 856 thfgwwsp has subdir fbg
+Line Number: 857 thfgwwsp has subdir flgmdj
+Line Number: 858 thfgwwsp has file gwppndsl with size 516
+Line Number: 859 thfgwwsp has subdir mwl
+Line Number: 860 thfgwwsp has subdir qfhsr
+Line Number: 861 thfgwwsp has subdir tgj
+Line Number: 862 thfgwwsp has subdir wdmzc
+Line Number: 863 thfgwwsp has file zcbnwhzd with size 272804
+Line Number: 864 thfgwwsp has subdir zrfmzrl
+Line Number: 865 cd: dsvc
+Line Number: 866 ls
+Line Number: 867 dsvc has file dlz with size 22089
+Line Number: 868 cd: thfgwwsp
+Line Number: 869 cd: fbg
+Line Number: 870 ls
+Line Number: 871 fbg has file hhcfpnmg.njm with size 289639
+Line Number: 872 cd: thfgwwsp
+Line Number: 873 cd: flgmdj
+Line Number: 874 ls
+Line Number: 875 flgmdj has file fqrpf with size 293793
+Line Number: 876 cd: thfgwwsp
+Line Number: 877 cd: mwl
+Line Number: 878 ls
+Line Number: 879 mwl has file dhzp with size 159673
+Line Number: 880 mwl has subdir ftthgr
+Line Number: 881 mwl has file hhcfpnmg.njm with size 270973
+Line Number: 882 mwl has subdir jjrq
+Line Number: 883 mwl has file ljpzpdbf with size 279365
+Line Number: 884 mwl has subdir mglzfcq
+Line Number: 885 mwl has file pnz with size 101769
+Line Number: 886 mwl has file rdl.wqf with size 18964
+Line Number: 887 cd: ftthgr
+Line Number: 888 ls
+Line Number: 889 ftthgr has subdir ccrvnht
+Line Number: 890 ftthgr has file ljltl.slv with size 170369
+Line Number: 891 ftthgr has subdir mwl
+Line Number: 892 ftthgr has subdir zqts
+Line Number: 893 ftthgr has file zvnhmqpz.cqb with size 65217
+Line Number: 894 cd: ccrvnht
+Line Number: 895 ls
+Line Number: 896 ccrvnht has file hdb with size 164437
+Line Number: 897 cd: ftthgr
+Line Number: 898 cd: mwl
+Line Number: 899 ls
+Line Number: 900 mwl has subdir cjsc
+Line Number: 901 mwl has subdir zcbnwhzd
+Line Number: 902 mwl has subdir zwzb
+Line Number: 903 cd: cjsc
+Line Number: 904 ls
+Line Number: 905 cjsc has file hhcfpnmg.njm with size 91883
+Line Number: 906 cjsc has file nfmvr with size 203008
+Line Number: 907 cd: mwl
+Line Number: 908 cd: zcbnwhzd
+Line Number: 909 ls
+Line Number: 910 zcbnwhzd has subdir mbtsvblj
+Line Number: 911 cd: mbtsvblj
+Line Number: 912 ls
+Line Number: 913 mbtsvblj has file ljpzpdbf with size 187513
+Line Number: 914 cd: zcbnwhzd
+Line Number: 915 cd: mwl
+Line Number: 916 cd: zwzb
+Line Number: 917 ls
+Line Number: 918 zwzb has file ljpzpdbf with size 138631
+Line Number: 919 zwzb has subdir sjngjp
+Line Number: 920 cd: sjngjp
+Line Number: 921 ls
+Line Number: 922 sjngjp has file ccjp.ttc with size 52116
+Line Number: 923 sjngjp has file fptzbpp.sdm with size 157900
+Line Number: 924 sjngjp has file hhcfpnmg.njm with size 89462
+Line Number: 925 cd: zwzb
+Line Number: 926 cd: mwl
+Line Number: 927 cd: ftthgr
+Line Number: 928 cd: zqts
+Line Number: 929 ls
+Line Number: 930 zqts has file hdb with size 162402
+Line Number: 931 cd: ftthgr
+Line Number: 932 cd: mwl
+Line Number: 933 cd: jjrq
+Line Number: 934 ls
+Line Number: 935 jjrq has subdir bffvw
+Line Number: 936 jjrq has subdir czbwf
+Line Number: 937 jjrq has file dlz with size 13447
+Line Number: 938 jjrq has subdir gjh
+Line Number: 939 jjrq has subdir hjs
+Line Number: 940 cd: bffvw
+Line Number: 941 ls
+Line Number: 942 bffvw has file dqqtq.lnb with size 139679
+Line Number: 943 bffvw has subdir mwl
+Line Number: 944 bffvw has file sjln.zgv with size 13310
+Line Number: 945 bffvw has file srmghrt.ffl with size 243329
+Line Number: 946 bffvw has file ssm.tph with size 72108
+Line Number: 947 cd: mwl
+Line Number: 948 ls
+Line Number: 949 mwl has subdir fdlmfjt
+Line Number: 950 mwl has subdir jms
+Line Number: 951 mwl has file nqwrj with size 122108
+Line Number: 952 cd: fdlmfjt
+Line Number: 953 ls
+Line Number: 954 fdlmfjt has file hdtbcsfc.vmz with size 75969
+Line Number: 955 cd: mwl
+Line Number: 956 cd: jms
+Line Number: 957 ls
+Line Number: 958 jms has file hhcfpnmg.njm with size 297556
+Line Number: 959 cd: mwl
+Line Number: 960 cd: bffvw
+Line Number: 961 cd: jjrq
+Line Number: 962 cd: czbwf
+Line Number: 963 ls
+Line Number: 964 czbwf has file ccjp with size 320541
+Line Number: 965 cd: jjrq
+Line Number: 966 cd: gjh
+Line Number: 967 ls
+Line Number: 968 gjh has file dhzp with size 164281
+Line Number: 969 gjh has file vjs with size 286094
+Line Number: 970 cd: jjrq
+Line Number: 971 cd: hjs
+Line Number: 972 ls
+Line Number: 973 hjs has subdir cbdzvd
+Line Number: 974 hjs has file ccjp with size 41353
+Line Number: 975 hjs has subdir gbs
+Line Number: 976 hjs has file hdb with size 114686
+Line Number: 977 hjs has subdir hmtpm
+Line Number: 978 hjs has file ljpzpdbf with size 278709
+Line Number: 979 hjs has subdir ppmtvcj
+Line Number: 980 hjs has file zcmlbbbc.mpp with size 292308
+Line Number: 981 hjs has file zttwct with size 86096
+Line Number: 982 cd: cbdzvd
+Line Number: 983 ls
+Line Number: 984 cbdzvd has file dhzp with size 153733
+Line Number: 985 cd: hjs
+Line Number: 986 cd: gbs
+Line Number: 987 ls
+Line Number: 988 gbs has subdir nfnb
+Line Number: 989 cd: nfnb
+Line Number: 990 ls
+Line Number: 991 nfnb has subdir hgm
+Line Number: 992 cd: hgm
+Line Number: 993 ls
+Line Number: 994 hgm has file ljpzpdbf with size 233469
+Line Number: 995 cd: nfnb
+Line Number: 996 cd: gbs
+Line Number: 997 cd: hjs
+Line Number: 998 cd: hmtpm
+Line Number: 999 ls
+Line Number: 1000 hmtpm has file mwl with size 14247
+Line Number: 1001 cd: hjs
+Line Number: 1002 cd: ppmtvcj
+Line Number: 1003 ls
+Line Number: 1004 ppmtvcj has subdir jcwhvcf
+Line Number: 1005 ppmtvcj has file mwl with size 241390
+Line Number: 1006 cd: jcwhvcf
+Line Number: 1007 ls
+Line Number: 1008 jcwhvcf has file wddq.rgp with size 198254
+Line Number: 1009 cd: ppmtvcj
+Line Number: 1010 cd: hjs
+Line Number: 1011 cd: jjrq
+Line Number: 1012 cd: mwl
+Line Number: 1013 cd: mglzfcq
+Line Number: 1014 ls
+Line Number: 1015 mglzfcq has subdir bsplglmj
+Line Number: 1016 mglzfcq has file fhflt.vgq with size 21700
+Line Number: 1017 mglzfcq has file lpmcbzrj with size 56724
+Line Number: 1018 mglzfcq has file qnbr with size 222733
+Line Number: 1019 mglzfcq has file thvbqb.gtv with size 256952
+Line Number: 1020 cd: bsplglmj
+Line Number: 1021 ls
+Line Number: 1022 bsplglmj has subdir zcbnwhzd
+Line Number: 1023 cd: zcbnwhzd
+Line Number: 1024 ls
+Line Number: 1025 zcbnwhzd has subdir mqzqz
+Line Number: 1026 cd: mqzqz
+Line Number: 1027 ls
+Line Number: 1028 mqzqz has file ppmtvcj with size 75000
+Line Number: 1029 cd: zcbnwhzd
+Line Number: 1030 cd: bsplglmj
+Line Number: 1031 cd: mglzfcq
+Line Number: 1032 cd: mwl
+Line Number: 1033 cd: thfgwwsp
+Line Number: 1034 cd: qfhsr
+Line Number: 1035 ls
+Line Number: 1036 qfhsr has file gfv.cnw with size 249770
+Line Number: 1037 qfhsr has file qlvwhff.jhm with size 70204
+Line Number: 1038 cd: thfgwwsp
+Line Number: 1039 cd: tgj
+Line Number: 1040 ls
+Line Number: 1041 tgj has file mwl.bfv with size 243926
+Line Number: 1042 cd: thfgwwsp
+Line Number: 1043 cd: wdmzc
+Line Number: 1044 ls
+Line Number: 1045 wdmzc has file hdb with size 19843
+Line Number: 1046 wdmzc has file jbqf.str with size 264263
+Line Number: 1047 wdmzc has file qrvt.lbr with size 261303
+Line Number: 1048 cd: thfgwwsp
+Line Number: 1049 cd: zrfmzrl
+Line Number: 1050 ls
+Line Number: 1051 zrfmzrl has file lnfgp.nhl with size 52067

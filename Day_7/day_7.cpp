@@ -23,10 +23,18 @@ class Dir {
         Dir(std::string newName, int newParent) : name{newName}, parent{newParent} {}
 
         // Add a file to the dir and get the size of the dir
-        void addFile(std::string fileName, int fileSize) {
+        void addFile(std::string fileName, int fileSize, std::vector<Dir>& fs) {
             File newFile{fileSize, fileName};
             size += fileSize; 
             files.push_back(newFile);
+            // This is a slow way to do it
+            // Now climb up the parent tree add the size of the file to all parents
+            int currentDir = parent;
+            // Root dir has parent of -1, everything should go back to the root dir eventually
+            while(currentDir != -1) {
+                fs[currentDir].addToSize(fileSize);
+                currentDir = fs[currentDir].getParent();
+            }
         }
 
         // set the parent
@@ -52,19 +60,20 @@ class Dir {
             return size;
         }
 
+        void setSize(int newSize) {
+            size = newSize;
+        }
+
+        void addToSize(int fileSize) {
+            size += fileSize;
+        }
+
         void addChild(int dir) {
             children.push_back(dir);
         }
 
         int getParent() {
             return parent;
-        }
-
-        // Take all the dirs and add them to the size (This should be called after reaching the end of the file)
-        void addAllDirs(std::vector<Dir>& fs) {
-            for (auto child: children) {
-                size += fs[child].getSize();
-            }
         }
 };
 
@@ -86,53 +95,42 @@ bool parentGreater(Dir a, Dir b) {
 // Create the file system
 std::vector<Dir> createFileSystem(std::ifstream& file) {
     // Keep track of where we are in the file system
-    int window;
+    int cwd = 0;
     std::vector<Dir> fileSystem;
     std::string command;
+    Dir rootDir{"/", -1};
+    fileSystem.push_back(rootDir);
+    std::getline(file, command);
+    std::getline(file, command);
     while(!file.eof()) {
         std::getline(file, command);
         if(command.substr(command.rfind(" ") + 1) == "ls") {
             continue;
         }
-        // If we get change directory command, set the window
-        if (command.find("cd") != command.npos) {
+        // If we get change directory command, set the cwd
+        if (command.find("$ cd") != command.npos) {
             // If we find the dir set to get the parent do that
-            if (command.substr(command.rfind(" ") + 1) == "..") {
-                if (window != 0) {
-                    window = fileSystem[window].getParent();
+            std::string dirName = command.substr(command.rfind(" ") + 1);
+            if (dirName == "..") {
+                if (cwd != 0) {
+                    cwd = fileSystem[cwd].getParent();
                 }
             } else {
-                int dirIndex = findDir(fileSystem, command.substr(command.rfind(" ") + 1), window);
-                // If we didn't find the dir, before, add it to the vector of dirs
-                if (dirIndex == fileSystem.size()) {
-                    Dir newDir{command.substr(command.rfind(" ") + 1)};
-                    fileSystem.push_back(newDir);
-                    window = fileSystem.size() - 1;
-                } else {
-                    window = dirIndex;
-                }
+                int dir = findDir(fileSystem, dirName, cwd);
+                cwd = dir;
             };
         } else if (command.substr(0, 3) == "dir") {
-            // A dir has been listed, add it to the children of the window and vector of all directories (if it doesn't exist yet)
-            int dirIndex = findDir(fileSystem, command.substr(command.rfind(" ") + 1), window);
-            if (dirIndex == fileSystem.size()) {
-                Dir newDir{command.substr(command.rfind(" ") + 1), window};
-                fileSystem.push_back(newDir);
-                fileSystem[window].addChild(fileSystem.size() - 1);
-            } else {
-                fileSystem[window].addChild(dirIndex);
-            }
+            // A dir has been listed, add it to the children of the cwd
+            Dir newDir{command.substr(command.rfind(" ") + 1), cwd};
+            fileSystem.push_back(newDir);
+            fileSystem[cwd].addChild(fileSystem.size() - 1);
         // Assume it's a file otherwise, add it to the current directory
         } else {
             int spaceI = command.rfind(" ");
             int fileSize = std::stoi(command.substr(0, command.rfind(" ")));
             std::string fileName = command.substr(command.rfind(" ") + 1);
-            fileSystem[window].addFile(fileName, fileSize);
+            fileSystem[cwd].addFile(fileName, fileSize, fileSystem);
         }
-    }
-    // Since we read the dirs in from top to bottom, we'll read the dirs reverse to calculate sizes
-    for(int ri = fileSystem.size() - 1; ri > -1; ri--) {
-        fileSystem[ri].addAllDirs(fileSystem);
     }
 
     return fileSystem;
@@ -148,18 +146,42 @@ int main(int argc, char* argv[]) {
         std::cerr << "File Couldn't be opened\n";
     }
     std::vector<Dir> fileSystem = createFileSystem(input);
+    // Get the total size of all directories under 100000
     int totalSizeLE100K = 0;
+    std::vector<std::string> files;
     for (auto dir: fileSystem) {
-        std::cout << dir.getDirName() << " " << dir.getSize() << "\n";
-        for (auto file: dir.getFiles()) {
-            std::cout << "\tFile: " << file.name << " " << file.size << "\n";
-        }
-        for (auto child: dir.getChildren()) {
-            std::cout << "\tDir: " << fileSystem[child].getDirName() << " " << fileSystem[child].getSize() << "\n";
-        }
         totalSizeLE100K += (dir.getSize() <= 100000) ? dir.getSize() : 0;
     }
     std::cout << "The total size of all dirs under 100K is: " << totalSizeLE100K << "\n";
+
+    // Get the smallest directory that if deleted can free up the required space for an update
+    int totalSpace = 70000000;
+    int requiredSpace = 30000000;
+    int freeSpace = totalSpace - fileSystem[0].getSize();
+    int requiredFileSize = requiredSpace - freeSpace;
+    std::cout << "Our current free space is " << freeSpace << " we need " << requiredSpace << "\nFind the smallest directory to delete that will satisfy this condition of at least " <<  requiredFileSize << "\n"; 
+    int rootSize = 0;
+    std::vector<File> rootFiles = fileSystem[0].getFiles();
+    std::vector<int> rootSubDirs = fileSystem[0].getChildren();
+    std::cout << "/ " << "size: " << fileSystem[0].getSize() << "\n";
+    for (auto file: rootFiles) {
+        std::cout << "  " << file.name << " " << file.size << "\n";
+        rootSize += file.size;
+    }
+    for (auto dir: rootSubDirs) {
+        std::cout << "  " << fileSystem[dir].getDirName() << " " << fileSystem[dir].getSize() << "\n";
+        rootSize += fileSystem[dir].getSize();
+    }
+    
+    int minimumSize = 70000001;
+    Dir minimumDir{"", -1};
+    for (auto dir: fileSystem) {
+        if (dir.getSize() < minimumSize && dir.getSize() > requiredFileSize) {
+            minimumDir = dir;
+            minimumSize = dir.getSize();
+        }
+    }
+    std::cout << "The directory we need to delete is " << minimumDir.getDirName() << " with size " << minimumDir.getSize() << "\n";
 
     return 0;
 }
