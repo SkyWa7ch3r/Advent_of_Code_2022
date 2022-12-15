@@ -104,4 +104,4 @@ Directories **e** and **a** are both too small; deleting them would not free up 
 
 Find the smallest directory that, if deleted, would free up enough space on the filesystem to run the update. **What is the total size of that directory?**
 
-Answer: 
+Answer: 7991939

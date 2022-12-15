@@ -34,4 +34,4 @@
 # VSCODE
 .vscode/settings.json
 .vscode
-.init.sh
+init.sh
