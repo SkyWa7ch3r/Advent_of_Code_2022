@@ -29,7 +29,6 @@ void getNewLocation(Coordinate& previousTail, Coordinate& currentTail) {
         // Get the Distance for x and y
         int xDist = previousTail.x - currentTail.x;
         int yDist =  previousTail.y - currentTail.y;
-        // std::cout << xDist << " " << yDist << "\n";
         if (std::abs(xDist) > std::abs(yDist)) {
             // If the x dist is more (we're going left or right)
             currentTail.y = previousTail.y;
@@ -57,13 +56,11 @@ void adjustTail(std::vector<Coordinate>& locations, std::vector<Coordinate>& tai
             previousTail = tail[i];
         }
         if (!std::any_of(locations.begin(), locations.end(), compare(tail.back()))) {
-            std::cout << "New Location from Tail " << " X: " << tail.back().x << " Y: " << tail.back().y << "\n";
             locations.push_back(tail.back());
         }
     } else {
         for(auto loc: tail) {
             if (!std::any_of(locations.begin(), locations.end(), compare(loc))) {
-                std::cout << "New Location from Tail " << " X: " << loc.x << " Y: " << loc.y << "\n";
                 locations.push_back(loc);
             }
         } 
@@ -81,7 +78,6 @@ void getPointsVisited(std::ifstream& file, int tailSize = 1) {
         std::getline(file, movement);
         int toMove = std::stoi(movement.substr(movement.find(" ")));
         int headMovements = 0;
-        std::cout << "\nMovement: " << movement << "\n";
         while(headMovements < toMove) {
             switch(movement[0]) {
                 case 'U':
@@ -100,10 +96,6 @@ void getPointsVisited(std::ifstream& file, int tailSize = 1) {
             getNewLocation(head, tail[0]);
             adjustTail(tailVisited, tail); 
             headMovements++;
-        }
-        std::cout << "Current Size: " << tailVisited.size() << "\n";
-        for (int i = 0; i < tail.size(); i++) {
-            std::cout << "Tail " << i + 1 << " X: " << tail[i].x << " Y: " << tail[i].y << "\n";
         }
     };
     std::cout << "The tail of size " << tailSize << " (excluding the head) visited " << tailVisited.size() << " points.\n";
