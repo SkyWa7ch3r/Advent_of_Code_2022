@@ -46,33 +46,35 @@ std::vector<std::vector<char>> readTheGrid(std::ifstream& file, Coordinate& star
     return grid;
 }
 
-bool checkNextPath(std::vector<std::vector<char>>& grid, std::deque<Path>& paths, Path currentPath, int rowOffset, int colOffset, Coordinate end) {
+bool checkNextPath(std::vector<std::vector<char>>& grid, std::deque<Path>& paths, Path& currentPath, int rowOffset, int colOffset, Coordinate& end, std::vector<Coordinate>& visited) {
+    int newRow = currentPath.current.row + rowOffset;
+    int newCol = currentPath.current.col + colOffset;
     if (
-        (currentPath.current.row + rowOffset) >= 0 && 
-        (currentPath.current.row + rowOffset) < grid.size() &&
-        (currentPath.current.col + colOffset) >= 0 && 
-        (currentPath.current.col + colOffset) < grid[0].size() && 
-        !std::any_of(currentPath.path.begin(), currentPath.path.end(), [currentPath, rowOffset, colOffset](Coordinate prev) { 
-            return ((currentPath.current.row + rowOffset) == prev.row && (currentPath.current.col + colOffset) == prev.col);
+        newRow >= 0 && 
+        newRow < grid.size() &&
+        newCol >= 0 && 
+        newCol < grid[0].size() &&
+        !std::any_of(visited.begin(), visited.end(), [newRow, newCol](Coordinate prev) { 
+            return (newRow == prev.row && newCol == prev.col);
         })
     ) {
         // Get the difference between current and potential new part of the path
-        int diff = grid[currentPath.current.row + rowOffset][currentPath.current.col + colOffset] - grid[currentPath.current.row][currentPath.current.col];
-        std::cout << "New Diff: " << diff << "\n";
-        if (diff == 1 || diff == 0) {
-            std::cout << currentPath.current.row + rowOffset << " " << currentPath.current.col + colOffset;
-            std::cout << " " << grid[currentPath.current.row + rowOffset][currentPath.current.col + colOffset] << "\n";
+        int diff = grid[newRow][newCol] - grid[currentPath.current.row][currentPath.current.col];
+        if (diff <= 1) {
             // Create new Path
             Path newPath;
             Coordinate newCurrent;
-            newCurrent.row = currentPath.current.row + rowOffset;
-            newCurrent.col = currentPath.current.col + colOffset;
+            newCurrent.row = newRow;
+            newCurrent.col = newCol;
             newPath.current = newCurrent;
             // Update newPaths path
+            newPath.path = currentPath.path;
             newPath.path.push_back(currentPath.current);
             // Add the path to the paths queue
             paths.push_back(newPath);
-            if(newPath.current.row == end.row && newPath.current.col == end.col) {
+            // Also add coordinate to visited
+            visited.push_back(newPath.current);
+            if((newPath.current.row == end.row) && (newPath.current.col == end.col)) {
                 // If we got to the end, break the loop by sending a true back
                 return true;
             } else {
@@ -85,43 +87,37 @@ bool checkNextPath(std::vector<std::vector<char>>& grid, std::deque<Path>& paths
 }
 
 // Execute a Breadth-First Search (Essentially a BFS, treat each new char as a node)
-void getShortestPathToSignal(std::vector<std::vector<char>>& grid, Coordinate& start, Coordinate& end) {
+std::vector<Coordinate> getShortestPathToSignal(std::vector<std::vector<char>>& grid, Coordinate& start, Coordinate& end) {
     std::deque<Path> paths;
-    std::vector<Coordinate> startPaths{start};
+    std::vector<Coordinate> startPaths{};
     Path startPath{start, startPaths};
+    std::vector<Coordinate> visited{start};
     paths.push_back(startPath);
     while(paths.size()) {
         Path current = paths.front();
+        paths.pop_front();
         // Check Above (rowOffset = -1, colOffset = 0)
-        std::cout << "Checking Above\n";
-        bool above = checkNextPath(grid, paths, current, -1, 0, end);
+        bool above = checkNextPath(grid, paths, current, -1, 0, end, visited);
         if (above) {
-            break;
+            return paths.back().path;
         }
         // Check Below (rowOffset = 1, colOffset = 0)
-        std::cout << "Checking Below\n";
-        bool below = checkNextPath(grid, paths, current, 1, 0, end);
+        bool below = checkNextPath(grid, paths, current, 1, 0, end, visited);
         if (below) {
-            break;
+            return paths.back().path;
         }
         // Check Left (rowOffset = 0, colOffset = -1)
-        std::cout << "Checking Left\n";
-        bool left = checkNextPath(grid, paths, current, 0, -1, end);
+        bool left = checkNextPath(grid, paths, current, 0, -1, end, visited);
         if (left) {
-            break;
+            return paths.back().path;
         }
         // Check Right (rowOffset = 0, colOffset = 1)
-        std::cout << "Checking Right\n";
-        bool right = checkNextPath(grid, paths, current, 0, 1, end);
+        bool right = checkNextPath(grid, paths, current, 0, 1, end, visited);
         if (right) { 
-            break;
+            return paths.back().path;
         }
-        std::cout << "Number of paths to check: " << paths.size() << "\n";
-        // Remove the path from queue of Paths
-        paths.pop_front();
-        
     }
-    std::cout << "The lowest path to the goal was done in " << paths.back().path.size() << "\n";
+    return startPaths;
 }
 
 int main(int argc, char* argv[]) {
@@ -139,7 +135,28 @@ int main(int argc, char* argv[]) {
 
     std::vector<std::vector<char>> grid = readTheGrid(input, start, end);
 
-    getShortestPathToSignal(grid, start, end);
+    std::cout << "Start X: " << start.col << " Y: " << start.row << "\n";
+    std::cout << "End X: " << end.col << " Y: " << end.row << "\n";
+
+    std::vector<Coordinate> shortestPath = getShortestPathToSignal(grid, start, end);
+
+    std::cout << "The lowest path from the designated start to the goal was done in " << shortestPath.size() << "\n";
+
+    int minShortestPath = grid.size() * grid[0].size() + 1;
+    for (int row = 0; row < grid.size(); row++) {
+        for (int col = 0; col < grid[0].size(); col++) {
+            if(grid[row][col] == 'a') {
+                Coordinate newStart{row, col};
+                std::vector<Coordinate> shortestPath = getShortestPathToSignal(grid, newStart, end);
+                if (shortestPath.size() < minShortestPath && shortestPath.size() != 0) {
+                    std::cout << "New Shortest Path: " << shortestPath.size() << "\n";
+                    minShortestPath = shortestPath.size();
+                }
+            }
+        }
+    }
+
+    std::cout << "The shortest path from any a point is: " << minShortestPath << "\n";
 
     return 0;
 }
